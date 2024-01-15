@@ -2,7 +2,7 @@
 
 ![MultiRoom Platformer Game](https://img.shields.io/badge/Game-MultiRoom_Platformer-brightgreen)
 
-This web application is designed for a real-time PvP (Player vs Player) fighting game using HTML5/Canvas. I created and implemented features such as collisions, movement, UI, gravity, and responsive controls for two players: For the left player, controls are 'WASD', with 'S' for attack, and for the right player, controls are arrows, with the bottom arrow for attack. The game features dynamic animations and interactive gameplay.
+This web application is designed for a multi-room platformer game using HTML5/Canvas. I created and implemented features such as collisions, movement, gravity, a tiled map system, and diverse levels. Players navigate using arrow keys, with the bottom arrow serving as both a jump and the key to enter doors, ensuring an immersive and seamless gaming experience.
 
 ## Table of Contents
 
@@ -14,11 +14,11 @@ This web application is designed for a real-time PvP (Player vs Player) fighting
 
 ## Folder Structure
 
--  **img:**
--  **js:**
--  **tiled:**
--  **index.html:**
--  **index.js:**
+-  **img:** Contains game-related assets such as images and gifs.
+-  **js:** JavaScript files for implementing game logic and interactions.
+-  **tiled:** Holds Tiled Map Editor files for level design.
+-  **index.html:** The main HTML file that includes the Canvas element.
+-  **index.js:** The entry point for the application.
 
 ## Usage
 
