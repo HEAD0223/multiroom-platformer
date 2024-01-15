@@ -1,6 +1,8 @@
 # MultiRoom Platformer Game
 
 ![MultiRoom Platformer Game](https://img.shields.io/badge/Game-MultiRoom_Platformer-brightgreen)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/22771b36-ef22-41fa-aafe-255f095d005a/deploy-status)](https://app.netlify.com/sites/multiroom-platform/deploys)
+[![Playable on Chrome](https://img.shields.io/badge/Playable%20on-Chrome-informational?logo=google-chrome)](https://multiroom-platform.netlify.app/)
 
 This web application is designed for a multi-room platformer game using HTML5/Canvas. I created and implemented features such as collisions, movement, gravity, a tiled map system, and diverse levels. Players navigate using arrow keys, with the bottom arrow serving as both a jump and the key to enter doors, ensuring an immersive and seamless gaming experience.
 
